@@ -1,1 +1,1 @@
-web: python server_push.py
+web: gunicorn server_push.py
